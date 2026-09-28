@@ -40,10 +40,9 @@ This project analyzes Amazon sales data to identify these patterns and translate
 
 # 📂 Project Structure
 
-Amazon_Sales_Analytic/
-│
-├── README.md
-├── Amazon_sale_data_sql.sql
-├── Amazon_sales_EDA_dashboard.pbix
-├── Excel_dashboard.png
-└── Power_bi_dashboard.png
+Amazon_Sales_Analytic
+--README.md
+--Amazon_sale_data_sql.sql
+--Amazon_sales_EDA_dashboard.pbix
+--Excel_dashboard.png
+--Power_bi_dashboard.png
